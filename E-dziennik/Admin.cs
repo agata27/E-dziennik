@@ -36,5 +36,10 @@ namespace E_dziennik
             Admin.ActiveForm.Hide();
             form.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
